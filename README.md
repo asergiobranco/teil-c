@@ -31,6 +31,6 @@ This will open the bash, which allows your to compile the model using the comman
 |               | URL  |
 |:-------------:|:----:|
 | Download      | [https://github.com/asergiobranco/teil-c/releases](https://github.com/asergiobranco/teil-c/releases) |
-| Github        | https://github.com/asergiobranco/teil-c  |
-| Documentation | |
+| Github        | [https://github.com/asergiobranco/teil-c](https://github.com/asergiobranco/teil-c)  |
+| Documentation | [https://teil.readthedocs.io](https://teil.readthedocs.io) 
 | Issues        | |
