@@ -23,7 +23,7 @@ Once downloaded, one can run the container with:
 
 This will open the bash, which allows your to compile the model using the command:
 
-`root:/workspace$ gcc ª.c -o main -lm -lteil`
+`root:/workspace$ gcc *.c -o main -lm -lteil`
 
 
 ## Useful Links
